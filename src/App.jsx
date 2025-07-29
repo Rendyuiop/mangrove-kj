@@ -205,7 +205,7 @@ const App = () => {
           "4 spesies mangrove dan 1 palm nipah yang dapat Anda pelajari",
         joggingTrack: "Jogging Track",
         joggingDesc:
-          "Jalur jogging sepanjang 2 km untuk aktivitas sehat di alam",
+          "Jalur jogging sepanjang 200 m untuk aktivitas sehat di alam",
         photoSpot: "Spot Foto",
         photoDesc: "Berbagai spot menarik untuk fotografi dan dokumentasi",
       },
@@ -224,7 +224,7 @@ const App = () => {
           "Trekking melalui boardwalk kayu",
           "Bird watching dan fotografi alam",
           "Edukasi ekosistem mangrove",
-          "Jogging track sepanjang 2 km",
+          "Jogging track sepanjang 200 m",
           "Spot foto instagramable",
         ],
         tipsTitle: "Tips Berkunjung",
@@ -287,7 +287,7 @@ const App = () => {
         floraCount: "5 Flora Types",
         floraDesc: "4 mangrove species and 1 nipah palm that you can study",
         joggingTrack: "Jogging Track",
-        joggingDesc: "2 km jogging path for healthy activities in nature",
+        joggingDesc: "200 m jogging path for healthy activities in nature",
         photoSpot: "Photo Spots",
         photoDesc: "Various attractive spots for photography and documentation",
       },
@@ -306,7 +306,7 @@ const App = () => {
           "Trekking through wooden boardwalks",
           "Bird watching and nature photography",
           "Mangrove ecosystem education",
-          "2 km jogging track",
+          "200 m jogging track",
           "Instagram-worthy photo spots",
         ],
         tipsTitle: "Visiting Tips",
@@ -618,7 +618,7 @@ const App = () => {
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="/mangrove-bg.mp4" type="video/mp4" />
+          <source src="/mangrove.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black bg-opacity-40 dark:bg-opacity-60"></div>
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
